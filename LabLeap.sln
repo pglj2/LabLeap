@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabLeap", "LabLeap.csproj", "{2879317B-AB25-797A-4561-B9012EF2F1C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabLeap.Editor", "LabLeap.Editor.csproj", "{4085C0C4-AC48-1F77-39C3-2B3A78780581}"
